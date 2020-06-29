@@ -1,15 +1,17 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[Bug]"
 labels: bug
-assignees: ''
+assignees: MasterSloth1
 
 ---
 
 **What version of the pack are you running?**
 
+
 **do you have optifine installed?**
+
 
 **ram allocated**
 
